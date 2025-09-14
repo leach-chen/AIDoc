@@ -58,7 +58,7 @@
 | ------------ | ------------ | ------------ |
 |  Pytorch | xxx‌|
 |  Tensflow | xxx‌|
-|  Pytorch | xxx‌|
+|  PaddlePaddle | xxx‌|
 
 ---
 
