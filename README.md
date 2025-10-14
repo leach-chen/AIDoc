@@ -2,7 +2,7 @@
 
 记录接触到的信息
 
-# <span id = '1'>一、学习资源</span>
+# <span id = ''>一、学习资源</span>
 
 
 | 网站     | 说明                                             |
@@ -11,7 +11,7 @@
 
 ---
 
-# <span id = '2'>二、开发资源</span>
+# <span id = ''>二、开发资源</span>
 
 | 网站     | 说明                                             |
 | ------------ | ------------------------------------------------------------ |
@@ -20,7 +20,7 @@
 ---
 
 
-# <span id = '3'>三、AI模型</span>
+# <span id = ''>三、AI模型</span>
 
 ## 3.1：语言模型
 
@@ -37,28 +37,24 @@
 
 
 
-
-
-
-
 ---
 
-# <span id = '4'>四、AI智能体</span>
+# <span id = ''>四、AI智能体</span>
 
 dify
 
+langchain/langGraph
+
 mcp
 
-langchain
 
-langGraph
-
-llamaIndex
+# <span id = ''>五、AI工具</span>
+Claude Code
 
 
 ---
 
-# <span id = '5'>五、AI知识</span>
+# <span id = ''>六、AI知识</span>
 
 ## [Python](./数学知识/README.md)
 
@@ -70,7 +66,7 @@ llamaIndex
 
 
 
-# <span id = '6'>六、深度学习框架</span>
+# <span id = ''>七、深度学习框架</span>
 
 | 框架     |说明     |原理     |
 | ------------ | ------------ | ------------ |
@@ -78,7 +74,7 @@ llamaIndex
 |  Tensflow | xxx‌|
 |  PaddlePaddle | xxx‌|
 
-# <span id = '7'>七、AI面试</span>
+# <span id = ''>八、AI面试</span>
 
 1.  [深度学习基础常见面试题](https://paddlepedia.readthedocs.io/en/latest/tutorials/interview_questions/interview_questions.html)
 2. [卷积模型常见面试题](https://paddlepedia.readthedocs.io/en/latest/tutorials/interview_questions/interview_questions.html#id2)
