@@ -24,16 +24,23 @@
 
 ## 3.1：语言模型
 
-| 模型     | 体验     | 大模型     | 说明     |
-| ------------ | ------------ |------------ | ------------ |
-| DeepSeek | [立即体验](https://chat.deepseek.com/)| &#10003;| LLM语言大模型 |
-
+| 模型     | 体验     | 说明     |
+| ------------ | ------------ |------------ |
+| DeepSeek | [立即体验](https://chat.deepseek.com/)| 语言大模型 |
+| 阿里云通义千问 | [立即体验](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/text)/)| 语言大模型 |
 
 ## 3.2：视觉模型
 
 | 模型     | 体验     | 说明     |
 | ------------ | ------------ | ------------ |
 | DINO-X | [立即体验](https://cloud.deepdataspace.com/zh/playground/dino-x?referring_prompt=0)| 覆盖目标检测、关键点检测、图像描述等多种视觉能力，支持文本提示、视觉提示和无需提示，通过端到端的 API 服务，让视觉感知更智能、更高效|
+| 阿里云通义千问 | [立即体验](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/vision)/)| 视觉大模型 |
+
+## 3.3：语音模型
+
+| 模型     | 体验     | 说明     |
+| ------------ | ------------ | ------------ |
+| 阿里云Paraformer | [立即体验](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/voice)/)| 语音大模型 |
 
 
 
@@ -46,6 +53,8 @@ dify
 langchain/langGraph
 
 mcp
+
+https://bailian.console.aliyun.com/?tab=mcp#/mcp-market
 
 
 # <span id = ''>五、AI工具</span>
