@@ -55,7 +55,7 @@ AI笔记，记录自己接触到、使用到的信息，包含资源导航、教
 
 | 模型     | 体验     | 说明     |
 | ------------ | ------------ | ------------ |
-| DINO-X | [立即体验](https://cloud.deepdataspace.com/zh/playground/dino-x?referring_prompt=0)| 覆盖目标检测、关键点检测、图像描述等多种视觉能力，支持文本提示、视觉提示和无需提示，通过端到端的 API 服务，让视觉感知更智能、更高效|
+| DINO-X | [立即使用](https://cloud.deepdataspace.com/zh/playground/dino-x?referring_prompt=0)| 覆盖目标检测、关键点检测、图像描述等多种视觉能力，支持文本提示、视觉提示和无需提示，通过端到端的 API 服务，让视觉感知更智能、更高效|
 | 阿里云通义千问 | [立即使用](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/vision)| 视觉大模型 |
 
 ### 语音模型
