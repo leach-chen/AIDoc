@@ -2,7 +2,33 @@
 
 AI笔记，记录自己接触到、使用到的信息，包含资源导航、教程、模型、实战项目、面试资料等，持续更新...
 
-# <span id = ''>一、AI资源</span>
+# <span id = ''>一、AI开发</span>
+
+## [Python用法](./Python/README.md)
+
+| 类别     |说明     |
+| ------------ |------------ |
+| [综合用法](./Python/README.md) |进阶用法、文件操作|
+| [numpy](./Python/NUMPY.md) |numpy用法|
+
+
+## [数学知识](./数学知识/README.md)
+
+## [深度学习](./深度学习/README.md)
+
+---
+
+# <span id = ''>二、开发模型</span>
+
+
+| 模型     | 教程     |说明     |
+| ------------ |------------ |------------ |
+| [Yolo](https://docs.ultralytics.com/) |[教程]() | 目标分类、目标检测、图像分割、姿态估计|
+| [PaddlePaddle](https://www.ultralytics.com/) | / | 百度飞浆的模型套件：[目标分类](https://github.com/PaddlePaddle/PaddleClas)、[目标检测](https://github.com/PaddlePaddle/PaddleDetection)、[图像分割](https://github.com/PaddlePaddle/PaddleSeg)、[NLP](https://github.com/PaddlePaddle/PaddleNLP)、[OCR](https://github.com/PaddlePaddle/PaddleOCR)、[语音](https://github.com/PaddlePaddle/PaddleSpeech/)|
+| [bert-base-chinese](https://huggingface.co/google-bert/bert-base-chinese/) |[教程]() | 训练将自然语言转换成结构化数据 |
+
+
+# <span id = ''>三、AI资源</span>
 
 
 | 网站     | 类别   |说明                                             |
@@ -16,29 +42,6 @@ AI笔记，记录自己接触到、使用到的信息，包含资源导航、教
 |[MCP](https://claude.com/product/claude-code/) |模型协议| [百度MCP](https://www.mcpworld.com/mcp)、[阿里云MCP](https://bailian.console.aliyun.com/?tab=mcp#/mcp-market)|
 
 ---
-
-
-# <span id = ''>二、AI知识</span>
-
-## [Python](./Python/README.md)
-
-## [数学知识](./数学知识/README.md)
-
-## [深度学习](./深度学习/README.md)
-
----
-
-# <span id = ''>三、开发模型</span>
-
-
-| 模型     | 教程     |说明     |
-| ------------ |------------ |------------ |
-| [Yolo](https://docs.ultralytics.com/) |[教程]() | 目标分类、目标检测、图像分割、姿态估计|
-| [PaddlePaddle](https://www.ultralytics.com/) | / | 百度飞浆的模型套件：[目标分类](https://github.com/PaddlePaddle/PaddleClas)、[目标检测](https://github.com/PaddlePaddle/PaddleDetection)、[图像分割](https://github.com/PaddlePaddle/PaddleSeg)、[NLP](https://github.com/PaddlePaddle/PaddleNLP)、[OCR](https://github.com/PaddlePaddle/PaddleOCR)、[语音](https://github.com/PaddlePaddle/PaddleSpeech/)|
-| [bert-base-chinese](https://huggingface.co/google-bert/bert-base-chinese/) |[教程]() | 训练将自然语言转换成结构化数据 |
-
-
-
 
 
 # <span id = ''>四、在线模型</span>
