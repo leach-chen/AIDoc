@@ -59,4 +59,24 @@ matrix = [[1,2], [3,4], [5,6]]
 list(zip(*matrix))  # 输出 [(1,3,5), (2,4,6)]
 ```
 
+### sorted(lines, key=lambda x x[k])
+‌排序规则‌：根据每个元素 x 的第 k 个索引值（或字典键 k）进行排序
+
+‌lambda 函数‌：匿名函数 lambda x: x[k] 快速提取排序键
+
+‌返回新列表‌：sorted() 返回新列表，原列表 lines 不变
+
+```
+#等价于
+def get_key(x):
+    return x["k"]
+sorted(lines, key=get_key)
+
+#‌列表嵌套字典
+data = [{'name': 'Alice', 'age': 25}, {'name': 'Bob', 'age': 20}]
+sorted(data, key=lambda x: x['age'])  # 按age升序
+
+```
+
+
 ## 文件操作
