@@ -20,7 +20,7 @@ AI笔记，记录自己接触到、使用到的信息，包含资源导航、教
 
 # <span id = ''>二、AI知识</span>
 
-## [Python](./数学知识/README.md)
+## [Python](./Python/README.md)
 
 ## [数学知识](./数学知识/README.md)
 
