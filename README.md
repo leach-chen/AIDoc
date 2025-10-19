@@ -41,31 +41,39 @@ AI笔记，记录自己接触到、使用到的信息，包含资源导航、教
 |[Claude Code](https://claude.com/product/claude-code/) |AI编程助手| 专注于代码生成、重构和跨文件修改等开发任务，强调终端环境的自主执行能力。擅长代码解释、自动补全和错误修复，尤其适合复杂工程任务|
 |[MCP](https://claude.com/product/claude-code/) |模型协议| [百度MCP](https://www.mcpworld.com/mcp)、[阿里云MCP](https://bailian.console.aliyun.com/?tab=mcp#/mcp-market)|
 
----
+<br>
+<br>
+
+
+| AI训练平台     |说明                                              |
+| ---------------------- |---------------------------------------- |
+|[EasyDL](https://ai.baidu.com/easydl/) |百度的零门槛AI开发平台，支持步骤化的AI训练|
+|[TI-ONE](https://cloud.tencent.com/document/product/851/) |腾讯的全栈式人工智能开发服务平台，致力于打通包含从数据获取、数据处理、算法构建、模型训练、模型评估、模型部署、到 AI 应用开发的产业 + AI 落地全流程链路，帮助用户快速创建和部署 AI 应用|
 
 
 # <span id = ''>四、在线模型</span>
 
 ### 语言模型
 
-| 模型     | 体验     | 说明     |
-| ------------ | ------------ |------------ |
-| DeepSeek | [立即使用](https://chat.deepseek.com/)| 语言大模型 |
-| 阿里云通义千问 | [立即使用](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/text)| 语言大模型 |
-| 文心一言 | [立即使用](https://yiyan.baidu.com/?utmSource=pinzhuan)| 语言大模型 |
+| 模型     | 说明     |
+| ------------ | ------------ |
+|  [DeepSeek](https://chat.deepseek.com/)| 语言大模型 |
+|  [阿里云通义千问](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/text)| 语言大模型 |
+|  [文心一言](https://yiyan.baidu.com/?utmSource=pinzhuan)| 语言大模型 |
+|  [腾讯元宝](https://yuanbao.tencent.com/chat/naQivTmsDa?yb_channel=3003)| 语言大模型 |
 
 ### 视觉模型
 
-| 模型     | 体验     | 说明     |
-| ------------ | ------------ | ------------ |
-| DINO-X | [立即使用](https://cloud.deepdataspace.com/zh/playground/dino-x?referring_prompt=0)| 覆盖目标检测、关键点检测、图像描述等多种视觉能力，支持文本提示、视觉提示和无需提示，通过端到端的 API 服务，让视觉感知更智能、更高效|
-| 阿里云通义千问 | [立即使用](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/vision)| 视觉大模型 |
+| 模型     |说明     |
+| ------------ |------------ |
+| [DINO-X](https://cloud.deepdataspace.com/zh/playground/dino-x?referring_prompt=0)| 覆盖目标检测、关键点检测、图像描述等多种视觉能力，支持文本提示、视觉提示和无需提示，通过端到端的 API 服务，让视觉感知更智能、更高效|
+| [阿里云通义千问](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/vision)| 视觉大模型 |
 
 ### 语音模型
 
-| 模型     | 体验     | 说明     |
-| ------------ | ------------ | ------------ |
-| 阿里云Paraformer | [立即使用](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/voice)| 语音大模型 |
+| 模型     |说明     |
+| ------------ |------------ |
+| [阿里云Paraformer](https://bailian.console.aliyun.com/?tab=model#/efm/model_experience_center/voice)| 语音大模型 |
 
 
 
