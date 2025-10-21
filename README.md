@@ -36,6 +36,7 @@ AI笔记，记录自己接触到、使用到的信息，包含资源导航、教
 |[AIStudio](https://aistudio.baidu.com/my/learn) |学习社区| AI Studio是百度飞桨推出的‌人工智能学习与实训社区‌，提供从学习到实践的一站式AI开发服务|
 |[‌Hugging Face](https://huggingface.co) |模型托管| 提供各类开源预训练模型托管、API及社区支持，适合快速上手大模型开发‌|
 |[‌Dify](https://docs.dify.ai/zh-hans/introduction) |Agent平台| Dify 是一款开源的大语言模型（LLM）应用开发平台，融合了后端即服务和LLMOps的理念，旨在帮助开发者快速搭建生产级的生成式 AI 应用|
+|[Copilotkit](https://www.copilotkit.ai/) |AI助手开发框架| 用于快速将 AI 功能集成到应用程序中‌它提供标准化 API 和 React UI 组件，支持构建应用内 AI 聊天机器人、智能文本编辑器等场景，并能通过 LangChain 技术实现自动化任务处理‌|
 |[Langchain](https://www.langchain.com/) |LLM开发框架| 以“链”（Chain）为核心，通过预定义顺序组合LLM调用、工具调用和数据源，形成线性或简单分支的工作流，架构遵循有向无环图（DAG）功能特点：提供统一接口集成多种LLM（如OpenAI、Claude）、支持RAG、Agent、Memory管理等模块化组件、适合标准化流程（如客服机器人、数据检索）|
 |[LangGraph](https://langchain-ai.github.io/langgraph/) |LLM开发框架| 基于图（Graph）结构，支持循环、条件分支和状态管理，节点代表操作步骤，边定义动态流转逻辑。功能特点：中央状态（State）管理，适用于多智能体协作、支持循环回溯，处理复杂交互（如金融风控系统）、与LangChain兼容，可嵌套使用其链作为节点|
 |[Claude Code](https://claude.com/product/claude-code/) |AI编程助手| 专注于代码生成、重构和跨文件修改等开发任务，强调终端环境的自主执行能力。擅长代码解释、自动补全和错误修复，尤其适合复杂工程任务|
